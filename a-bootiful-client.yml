@@ -7,3 +7,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 foo: baz
+---
+spring:
+  profiles: dev
+   
+foo: bardev 
+bar: foodev
