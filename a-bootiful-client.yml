@@ -10,6 +10,6 @@ foo: baz
 ---
 spring:
   profiles: dev
-   
-foo: bardev 
+
+foo: bardev2
 bar: foodev
